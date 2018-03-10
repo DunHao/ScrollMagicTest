@@ -1,2 +1,0 @@
-# ScrollMagicTest
-Created with CodeSandbox
